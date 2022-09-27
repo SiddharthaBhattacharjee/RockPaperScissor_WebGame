@@ -162,3 +162,16 @@ body{
     font-family: monospace;
     margin-left: 15px;
 }
+
+@media screen and (max-width: 755px){
+    #buttons{
+        width: 250px;
+    }
+    #game{
+        width: 300px;
+    }
+    #expl{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
